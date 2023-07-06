@@ -2,7 +2,7 @@
 // Install Extensions
 
 function App() {
-  return <>Hello React! BYE</>
+  return <>Hello React!</>
 }
 
 export default App
